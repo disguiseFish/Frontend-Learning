@@ -1,7 +1,6 @@
 # null和undefined区别
 The difference between null and undefined
 
-首先 Undefined 和 Null 都是基本数据类型，这两个基本数据类型分别都只有一个值，就是 undefined 和 null。
 First of all, Undefined and Null are both basic data types. Each of these two basic data types has only one value, which is undefined and null.
 
 undefined 代表的含义是未定义，null 代表的含义是空对象。一般变量声明了但还没有定义的时候会返回 undefined，null主要用于赋值给一些可能会返回对象的变量，作为初始化。
