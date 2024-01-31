@@ -1,6 +1,6 @@
 
-一.数据类型
-1.What data types does JavaScript have and how do they differ(1.JavaScript有哪些数据类型，它们的区别？)
+# 一.数据类型
+- 1.What data types does JavaScript have and how do they differ(1.JavaScript有哪些数据类型，它们的区别？)
  
 JavaScript has eight data types: Undefined, Null, Boolean, Number, String, Object, Symbol, and BigInt.(JavaScript共有八种数据类型，分别是...)
 

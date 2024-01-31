@@ -1,4 +1,4 @@
-null和undefined区别
+# null和undefined区别
 The difference between null and undefined
 
 首先 Undefined 和 Null 都是基本数据类型，这两个基本数据类型分别都只有一个值，就是 undefined 和 null。
